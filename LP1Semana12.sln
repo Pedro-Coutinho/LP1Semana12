@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEnumerable", "MyEnumerabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustLikeACollection", "JustLikeACollection\JustLikeACollection.csproj", "{266CD6DA-FA6E-4147-853A-3E85B2773E40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteStuff1", "WriteStuff1\WriteStuff1.csproj", "{0ADEBBC0-5B19-477D-A620-142C0901A0D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{266CD6DA-FA6E-4147-853A-3E85B2773E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{266CD6DA-FA6E-4147-853A-3E85B2773E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{266CD6DA-FA6E-4147-853A-3E85B2773E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ADEBBC0-5B19-477D-A620-142C0901A0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADEBBC0-5B19-477D-A620-142C0901A0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADEBBC0-5B19-477D-A620-142C0901A0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADEBBC0-5B19-477D-A620-142C0901A0D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
