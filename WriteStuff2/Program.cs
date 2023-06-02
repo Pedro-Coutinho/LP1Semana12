@@ -17,7 +17,7 @@ namespace WriteStuff2
                 if(text == "")
                     cycle = false;
                 else
-                    sw.WriteLine(text);;
+                    sw.WriteLine(text);
                 
             }
             while(cycle);
